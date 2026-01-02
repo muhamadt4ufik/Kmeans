@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+# library lain yang Anda gunakan
