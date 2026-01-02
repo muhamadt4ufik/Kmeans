@@ -1,7 +1,8 @@
-streamlit
+streamlit>=1.28.0
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
-# library lain yang Anda gunakan
+plotly
+openpyxl
